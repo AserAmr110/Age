@@ -1,4 +1,0 @@
-streamlit
-plotly.express
-pandas
-gdown
